@@ -19,7 +19,8 @@ The dataset used for this task was presented by [Pwc](https://www.pwc.com) and t
 
 ## Dashboard
 
-View Dashboard.[https://github.com/BhavishaKulal/PWC-Power-BI-Task-1/blob/main/callcentre.pbix]
+[View Dashboard]
+(https://github.com/BhavishaKulal/PWC-Power-BI-Task-1/blob/main/callcentre.pbix)
 
 ![image](https://github.com/user-attachments/assets/2114586b-b6b0-471c-b275-1388c7c4820c)
 
