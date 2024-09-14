@@ -12,4 +12,4 @@ Possible KPIs include:
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 #Data Source
-CallCentre Dataset : 
+Dataset used for this task was presented by Pwc and call centre trends dataset
